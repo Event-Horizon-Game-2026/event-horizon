@@ -2,7 +2,7 @@ EVENT HORIZON
 
 You are a black hole. Anything smaller than you is food. Anything larger will tear you apart.
 
-Begin as the collapsed remnant of a dead star and grow through nine stages of cosmic evolution, from Stellar Remnant to the Cosmic Web. Consume stars, shatter giants with your shockwave, and hunt the other black holes around you. Every one of them is a real player, and devouring one claims half of its mass.
+Begin as the collapsed remnant of a dead star and grow through nine stages of cosmic evolution, from Stellar Remnant to the Cosmic Web. Consume stars, shatter giants with your shockwave, and hunt the other black holes around you. And devouring one claims half of its mass.
 
 The universe fights back. Pulsar beams burn away your mass, dying stars erupt into supernovas, and the largest black holes slowly evaporate, so the hunt never ends.
 
